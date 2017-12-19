@@ -1,6 +1,5 @@
 package com.theincgi.app;
 
-import java.awt.Point;
 import java.awt.image.BufferedImage;
 
 import com.sun.jna.platform.win32.User32;
@@ -11,7 +10,6 @@ import javafx.animation.AnimationTimer;
 import javafx.animation.FadeTransition;
 import javafx.application.Application;
 import javafx.application.Platform;
-import javafx.geometry.Point2D;
 import javafx.geometry.Pos;
 import javafx.scene.Scene;
 import javafx.scene.layout.BorderPane;

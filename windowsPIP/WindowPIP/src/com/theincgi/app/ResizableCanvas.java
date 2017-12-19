@@ -2,8 +2,6 @@ package com.theincgi.app;
 
 import java.awt.image.BufferedImage;
 
-import org.ietf.jgss.GSSContext;
-
 import javafx.embed.swing.SwingFXUtils;
 import javafx.scene.canvas.Canvas;
 import javafx.scene.canvas.GraphicsContext;

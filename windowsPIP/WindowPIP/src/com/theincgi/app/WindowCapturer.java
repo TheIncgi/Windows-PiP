@@ -1,16 +1,15 @@
 package com.theincgi.app;
-import java.awt.Image;
 import java.awt.image.BufferedImage;
 
 import com.sun.jna.Memory;
 import com.sun.jna.platform.win32.GDI32;
 import com.sun.jna.platform.win32.User32;
-import com.sun.jna.platform.win32.WinGDI;
-import com.sun.jna.platform.win32.WinGDI.BITMAPINFO;
 import com.sun.jna.platform.win32.WinDef.HBITMAP;
 import com.sun.jna.platform.win32.WinDef.HDC;
 import com.sun.jna.platform.win32.WinDef.HWND;
 import com.sun.jna.platform.win32.WinDef.RECT;
+import com.sun.jna.platform.win32.WinGDI;
+import com.sun.jna.platform.win32.WinGDI.BITMAPINFO;
 import com.sun.jna.platform.win32.WinNT.HANDLE;
 
 import jna.extra.GDI32Extra;
