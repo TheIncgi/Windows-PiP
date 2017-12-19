@@ -16,6 +16,7 @@ Unfortunatly it should be noted that not all the applications work as expected.
 Some:
    - The screen doesn't actualy update
    - Display a black screen
+   
 Others:
    - Work as expected providing a live preview
    
