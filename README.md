@@ -9,7 +9,7 @@ without having to clutter up his screen space by doing a split screen configurat
   
 You can move the window by draging the gray button.
 You can change the target window with the green button.
-If you hold shift or right click the green button you will have a 5 second delay before teh window is selected.
+If you hold shift or right click the green button you will have a 5 second delay before the window is selected.
 (added this to switch into fullscreen programs)
 
 Unfortunatly it should be noted that not all the applications work as expected.
